@@ -90,6 +90,11 @@ const config: Config = {
           sidebarId: 'atas',
           position: 'left',
           label: 'Atas de reunião',
+        },{
+          type: 'docSidebar',
+          sidebarId: 'elicitacao',
+          position: 'left',
+          label: 'Elicitação',
         },
         {
           href: 'https://pabloheika.github.io/Requisitos-Uber/',
