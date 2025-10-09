@@ -18,9 +18,11 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: Uber
 
       - name: Build site
         run: npm run build
+        working-directory: Uber
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
