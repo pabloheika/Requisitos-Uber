@@ -1,6 +1,6 @@
 # Protótipo de Baixa Fidelidade – Uber 
 
-![Protótipo Uber](imagens/prot.baixa.png)
+![Prototipo-Baixa](assets/prototipobaixa.png)
 
 ## 1. Introdução 
 
