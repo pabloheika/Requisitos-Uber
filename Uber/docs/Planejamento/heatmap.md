@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+sidebar_label: Heatmap
+---
 # Heatmap
 
 ### 🗺️ Uso do Heatmap no Where2Meet
