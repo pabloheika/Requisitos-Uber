@@ -4,55 +4,46 @@ import {
   Droppable,
   Draggable,
 } from "@hello-pangea/dnd";
-
-const defaultData = {
-  Certezas: [
-    "O aplicativo precisa de login.",
-    "O sistema deve registrar viagens.",
-  ],
-  Suposições: [
-    "Os usuários usarão majoritariamente Android.",
-    "O back-end pode ser feito em Node.js.",
-  ],
-  Dúvidas: [
-    "Qual será o modelo de monetização?",
-    "Quais integrações com APIs externas serão necessárias?",
-  ],
-};
+import { useColorMode } from "@docusaurus/theme-common";
+import defaultData from "./matriz-csd.json";
 
 export default function CSDMatrix() {
   const [columns, setColumns] = useState(defaultData);
+  const { colorMode } = useColorMode();
 
-  // 🔹 Carrega dados salvos do localStorage (se existirem)
+  // Carrega dados salvos do localStorage
   useEffect(() => {
     const saved = localStorage.getItem("csdData");
     if (saved) {
       try {
         setColumns(JSON.parse(saved));
-      } catch (err) {
-        console.error("Erro ao ler dados do localStorage:", err);
+      } catch {
+        setColumns(defaultData);
       }
     }
   }, []);
 
-  // 🔹 Salva automaticamente no localStorage sempre que há mudanças
-  useEffect(() => {
-    localStorage.setItem("csdData", JSON.stringify(columns));
-  }, [columns]);
-
-  // 🔹 Função para exportar como JSON
-  const handleExport = () => {
-    const blob = new Blob([JSON.stringify(columns, null, 2)], {
-      type: "application/json",
-    });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = "matriz-csd.json";
-    a.click();
+  const isDark = colorMode === "dark";
+  const colors = {
+    bg: isDark ? "#1e1e1e" : "#f7f7f7",
+    card: isDark ? "#2a2a2a" : "white",
+    text: isDark ? "#f5f5f5" : "#333",
+    shadow: isDark ? "0 2px 6px rgba(0,0,0,0.6)" : "0 2px 6px rgba(0,0,0,0.1)",
+    border: isDark ? "#3c3c3c" : "#e0e0e0",
   };
 
-  // 🔹 Função para importar JSON
+  // 🔹 Salvar matriz localmente e baixar JSON atualizado
+  const handleSave = () => {
+    localStorage.setItem("csdData", JSON.stringify(columns));
+    const blob = new Blob([JSON.stringify(columns, null, 2)], { type: "application/json" });
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(blob);
+    link.download = "matriz-csd.json";
+    link.click();
+    URL.revokeObjectURL(link.href);
+  };
+
+  // 🔹 Importar JSON
   const handleImport = (e) => {
     const file = e.target.files[0];
     if (!file) return;
@@ -61,17 +52,33 @@ export default function CSDMatrix() {
       try {
         const imported = JSON.parse(evt.target.result);
         setColumns(imported);
-      } catch (err) {
-        alert("Arquivo inválido! Certifique-se de que é um JSON da matriz CSD.");
+        localStorage.setItem("csdData", JSON.stringify(imported));
+      } catch {
+        alert("Arquivo inválido. Selecione um JSON válido da Matriz CSD.");
       }
     };
     reader.readAsText(file);
   };
 
-  // 🔹 Função do drag & drop
+  // 🔹 Adicionar item
+  const addItem = (colName) => {
+    const newText = prompt(`Adicionar novo item em "${colName}":`);
+    if (!newText || newText.trim() === "") return;
+    const newItems = [...columns[colName], newText.trim()];
+    setColumns({ ...columns, [colName]: newItems });
+  };
+
+  // 🔹 Excluir item
+  const deleteItem = (colName, index) => {
+    if (!window.confirm("Tem certeza que deseja excluir este item?")) return;
+    const newItems = [...columns[colName]];
+    newItems.splice(index, 1);
+    setColumns({ ...columns, [colName]: newItems });
+  };
+
+  // 🔹 Drag & Drop
   const onDragEnd = (result) => {
     if (!result.destination) return;
-
     const { source, destination } = result;
 
     if (source.droppableId === destination.droppableId) {
@@ -84,7 +91,6 @@ export default function CSDMatrix() {
       const [moved] = startItems.splice(source.index, 1);
       const endItems = Array.from(columns[destination.droppableId]);
       endItems.splice(destination.index, 0, moved);
-
       setColumns({
         ...columns,
         [source.droppableId]: startItems,
@@ -95,35 +101,38 @@ export default function CSDMatrix() {
 
   return (
     <div style={{ marginTop: "1rem" }}>
-      {/* 🔹 Botões de controle */}
-      <div style={{
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        gap: "1rem",
-        marginBottom: "1rem",
-        flexWrap: "wrap",
-      }}>
-        <button
-          onClick={handleExport}
+      {/* Controles principais */}
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          gap: "1rem",
+          marginBottom: "1rem",
+          flexWrap: "wrap",
+        }}
+      >
+        <label
+          onClick={handleSave}
           style={{
             padding: "0.5rem 1rem",
             borderRadius: "8px",
             border: "none",
-            backgroundColor: "#0078d4",
+            backgroundColor: isDark ? "#2563eb" : "#0078d4",
             color: "white",
             cursor: "pointer",
           }}
         >
-          💾 Exportar matriz
-        </button>
+          💾 Salvar matriz
+        </label>
 
         <label
           style={{
             padding: "0.5rem 1rem",
             borderRadius: "8px",
-            backgroundColor: "#f0f0f0",
+            backgroundColor: isDark ? "#3a3a3a" : "#f0f0f0",
             cursor: "pointer",
+            color: colors.text,
           }}
         >
           📂 Importar matriz
@@ -136,13 +145,15 @@ export default function CSDMatrix() {
         </label>
       </div>
 
-      {/* 🔹 Matriz de colunas */}
-      <div style={{
-        display: "flex",
-        justifyContent: "center",
-        gap: "1rem",
-        flexWrap: "wrap",
-      }}>
+      {/* Matriz CSD */}
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          gap: "1rem",
+          flexWrap: "wrap",
+        }}
+      >
         <DragDropContext onDragEnd={onDragEnd}>
           {Object.entries(columns).map(([colName, items]) => (
             <Droppable key={colName} droppableId={colName}>
@@ -151,25 +162,48 @@ export default function CSDMatrix() {
                   ref={provided.innerRef}
                   {...provided.droppableProps}
                   style={{
-                    background: "#f7f7f7",
+                    background: colors.bg,
                     borderRadius: "12px",
                     padding: "1rem",
                     width: "300px",
                     minHeight: "300px",
-                    boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
+                    boxShadow: colors.shadow,
+                    display: "flex",
+                    flexDirection: "column",
+                    border: `1px solid ${colors.border}`,
                   }}
                 >
-                  <h3
+                  <div
                     style={{
-                      textAlign: "center",
+                      display: "flex",
+                      justifyContent: "space-between",
+                      alignItems: "center",
                       marginBottom: "1rem",
-                      color: "#333",
                     }}
                   >
-                    {colName}
-                  </h3>
+                    <h3 style={{ color: colors.text }}>{colName}</h3>
+                    <button
+                      onClick={() => addItem(colName)}
+                      style={{
+                        border: "none",
+                        borderRadius: "6px",
+                        backgroundColor: "#28a745",
+                        color: "white",
+                        cursor: "pointer",
+                        padding: "0.3rem 0.6rem",
+                        fontSize: "1rem",
+                      }}
+                    >
+                      ＋
+                    </button>
+                  </div>
+
                   {items.map((item, index) => (
-                    <Draggable key={item} draggableId={item} index={index}>
+                    <Draggable
+                      key={`${colName}-${item}`}
+                      draggableId={`${colName}-${item}`}
+                      index={index}
+                    >
                       {(provided) => (
                         <div
                           ref={provided.innerRef}
@@ -177,15 +211,34 @@ export default function CSDMatrix() {
                           {...provided.dragHandleProps}
                           style={{
                             userSelect: "none",
-                            background: "white",
+                            background: colors.card,
+                            color: colors.text,
                             borderRadius: "8px",
                             padding: "0.5rem",
                             marginBottom: "0.5rem",
-                            boxShadow: "0 1px 3px rgba(0,0,0,0.15)",
+                            display: "flex",
+                            justifyContent: "space-between",
+                            alignItems: "center",
+                            boxShadow: isDark
+                              ? "0 1px 3px rgba(255,255,255,0.05)"
+                              : "0 1px 3px rgba(0,0,0,0.15)",
                             ...provided.draggableProps.style,
                           }}
                         >
-                          {item}
+                          <span>{item}</span>
+                          <button
+                            onClick={() => deleteItem(colName, index)}
+                            style={{
+                              border: "none",
+                              background: "transparent",
+                              color: isDark ? "#f87171" : "#d11a2a",
+                              cursor: "pointer",
+                              fontSize: "1rem",
+                            }}
+                            title="Excluir item"
+                          >
+                            🗑️
+                          </button>
                         </div>
                       )}
                     </Draggable>
