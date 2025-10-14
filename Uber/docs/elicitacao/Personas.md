@@ -43,3 +43,14 @@ Para essa definição seguimos os seguintes critérios:
 | **Expectativas:** | Ele gostaria que o serviço fosse rápido e pontual.  |
 
 
+| **Figura 2:** Larissa Sato | <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/8678b7c5c4bb6c087c52593ddf2a4afc05424ad70d864aec.jpeg" width="120" height="160" style="object-fit: cover; border-radius: 6px;">  fonte: this-person-does-not-exist.com|
+|------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Identidade:&#xA0;** | Larissa Sato  - 26 anos - Feminino - Solteiro - Ensino superior completo - Enfermeira| 
+| **Status:** | Persona primária | 
+| **Objetivos:** | Larissa trabalha como enfermeira em três hospitais e utiliza o aplicativo como alternativa para deslocamento rápido e mais confortável em horários irregulares. |
+| **Habilidades:**| Escuta ativa, comunicação clara,  habilidade de atendimento de urgência. |
+| **Tarefas:&#xA0;**| Larissa começa o dia tomando banho, e se dirige ao primeiro hospital onde realiza seus serviços até o início da noite em que se direciona para a emergência do segundo hospital, quando finalizado pede um carro para o último serviço onde após fazer atendimentos se direciona para casa em meio a madrugada. |
+| **Requisitos:** |Dado o horário de sair de casa para trabalhar abre o aplicativo para analisar se a corrida marcada antecipadamente vai ocorrer com sucesso.| 
+| **Expectativas:** | Ela gostaria que o serviço fosse  pontual e seguro para mulheres que o utilizam. |
+
+
