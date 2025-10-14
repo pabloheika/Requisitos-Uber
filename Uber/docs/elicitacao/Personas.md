@@ -50,7 +50,20 @@ Para essa definição seguimos os seguintes critérios:
 | **Objetivos:** | Larissa trabalha como enfermeira em três hospitais e utiliza o aplicativo como alternativa para deslocamento rápido e mais confortável em horários irregulares. |
 | **Habilidades:**| Escuta ativa, comunicação clara,  habilidade de atendimento de urgência. |
 | **Tarefas:&#xA0;**| Larissa começa o dia tomando banho, e se dirige ao primeiro hospital onde realiza seus serviços até o início da noite em que se direciona para a emergência do segundo hospital, quando finalizado pede um carro para o último serviço onde após fazer atendimentos se direciona para casa em meio a madrugada. |
+| **Relacionamentos:** | Colegas de profissão, familiares, amigos e pacientes. |
 | **Requisitos:** |Dado o horário de sair de casa para trabalhar abre o aplicativo para analisar se a corrida marcada antecipadamente vai ocorrer com sucesso.| 
 | **Expectativas:** | Ela gostaria que o serviço fosse  pontual e seguro para mulheres que o utilizam. |
+
+
+| **Figura 3:** Adriana Oliveira | <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/e09feb35ce9dc10bc5efa3f874811fb24b411184cc2ccfa1.jpeg" width="120" height="160" style="object-fit: cover; border-radius: 6px;">  fonte: this-person-does-not-exist.com|
+|------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Identidade:&#xA0;** | Adriana Oliveira  - 37 anos - Feminino - Solteiro - Ensino superior completo - Fotografa freelancer| 
+| **Status:** | Persona primária | 
+| **Objetivos:** | Adriana trabalha como fotógrafa para clientes diferentes como é freelancer, utiliza o aplicativo para se deslocar entre estúdios e espaços para fotografar em horários flexíveis. |
+| **Habilidades:**| Olhar estético, sensibilidade visual, capacidade de lidar com imprevistos,  habilidade de atendimento ao cliente.|
+| **Tarefas:&#xA0;**| Adriana começa o dia tomando café, e observa a natureza pela janela da cozinha, depois se desloca para o primeiro ensaio, assim seguindo o dia transitando entre diferentes lugares e atendendo clientes até chegar ao último serviço onde após fazer atendimentos se direciona para casa. |
+| **Relacionamentos:** | Colegas de profissão, familiares, amigos e clientes. |
+| **Requisitos:** |Dado o horário de sair de casa para trabalhar abre o mapa do aplicativo para ver se há motoristas perto e ver o preço das viagens.| 
+| **Expectativas:** | Ela gostaria que o serviço fosse  prático e seguro para mulheres que o utilizam. |
 
 
