@@ -31,3 +31,15 @@ Para essa definição seguimos os seguintes critérios:
 * **Requisitos**: Do que a persona necessita? Inclua declarações que enriqueçam a compreensão dessas exigências.
 * **Expectativas**: Como a persona presume que o produto funcione? De que maneira ela organiza as informações em seu campo de atuação ou trabalho?
 
+| **Figura 1:** Fábio Cardoso | <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/0d4e9cafcf846343e347c8712eeab7f0ecfe81cf790fcd0b.jpeg" width="120" height="160" style="object-fit: cover; border-radius: 6px;">  fonte: this-person-does-not-exist.com|
+|------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Identidade:&#xA0;** | Fábio Cardoso  - 42 anos - Masculino - Casado - Ensino superior completo - Advogado | 
+| **Status:** | Persona primária | 
+| **Objetivos:** | Fábio trabalha como advogado em um escritório que representa clientes de alto nível aquisitivo e decidiu utilizar a categoria _uber black_ do aplicativo como opção viável para andar em carros de custo alto sem tem gastos de manutenção, mantendo o conforto. |
+| **Habilidades:**| Oratória, habilidade em argumentação,  habilidade de resolução de conflitos e alta adaptabilidade. |
+| **Tarefas:&#xA0;**| Fábio começa o dia tomando banho para acordar, seguido do café da manhã, quando finalizado pede um carro para a academia onde após fazer atividades físicas se arruma  e, de lá, segue para o trabalho onde demonstra o sucesso esbanjando roupas caras e um carro bom com motorista, dessa maneira cria um ambiente de convencimento sobre o cliente que agora deseja o contratar, após o encerramento das atividades do dia volta para casa para finalizar o dia. |
+| **Relacionamentos:** | Colegas de profissão, familiares, amigos, admiradores e clientes. |
+| **Requisitos:** |Após marcar uma reunião com um cliente abre o mapa do aplicativo para verificar os motoristas próximos e pedir sua corrida. | 
+| **Expectativas:** | Ele gostaria que o serviço fosse rápido e pontual.  |
+
+
