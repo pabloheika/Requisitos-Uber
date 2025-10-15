@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://pabloheika.github.io/Requisitos-Uber/',
+            'https://github.com/pabloheika/Requisitos-Uber',
         },
         theme: {
           customCss: './src/css/custom.css',
