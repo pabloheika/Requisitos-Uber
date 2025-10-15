@@ -6,11 +6,11 @@ Este repositório contém o processo de Engenharia Reversa do aplicativo Uber, p
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/caiomsabino"><img style="border-radius: 50%;" src="https://github.com/caiomsabino.png" width="100px;" alt=""/><br /><sub><b>Caio Lucas Messias Sabino</b></sub></a><br />   
-    <td align="center"><a href="https://github.com/Roomarok"><img style="border-radius: 50%;" src="https://github.com/Roomarok.png" width="100px;" alt=""/><br /><sub><b>=João Victor Pires Sapiência Santos</b></sub></a><br />   
-    <td align="center"><a href="https://github.com/EsterChaves "><img style="border-radius: 50%;" src="https://github.com/EsterChaves.png" width="100px;" alt=""/><br /><sub><b>Pedro Túlio Curvelo Camilo</b></sub></a><br />
-    <td align="center"><a href="https://github.com/pabloheika "><img style="border-radius: 50%;" src="https://github.com/pabloheika.png" width="100px;" alt=""/><br /><sub><b>Maria Eduarda Araujo Pereira</b></sub></a><br />
-    <td align="center"><a href="https://github.com/lyscoutinho"><img style="border-radius: 50%;" src="https://github.com/lyscoutinho.png" width="100px;" alt=""/><br /><sub><b>Caio Lucas Messias Sabino</b></sub></a><br />   
+    <td align="center"><a href="https://github.com/caiomsabino"><img style="border-radius: 50%;" src="https://github.com/caiomsabino.png" width="100px;" alt=""/><br /><sub><b>Caio Sabino</b></sub></a><br />   
+    <td align="center"><a href="https://github.com/Roomarok"><img style="border-radius: 50%;" src="https://github.com/Roomarok.png" width="100px;" alt=""/><br /><sub><b>Erick Okamura</b></sub></a><br />   
+    <td align="center"><a href="https://github.com/EsterChaves "><img style="border-radius: 50%;" src="https://github.com/EsterChaves.png" width="100px;" alt=""/><br /><sub><b>Ester Chaveso</b></sub></a><br />
+      <td align="center"><a href="https://github.com/lyscoutinho"><img style="border-radius: 50%;" src="https://github.com/lyscoutinho.png" width="100px;" alt=""/><br /><sub><b>Lys Coutinho</b></sub></a><br /> 
+    <td align="center"><a href="https://github.com/pabloheika "><img style="border-radius: 50%;" src="https://github.com/pabloheika.png" width="100px;" alt=""/><br /><sub><b>Pablo Costa</b></sub></a><br />  
   </tr>
 </table>
 
