@@ -8,8 +8,6 @@ As seções a seguir detalham os requisitos elicitados para áreas críticas do 
 
 ### Agendamento e Gestão de Viagens
 
-### Agendamento e Gestão de Viagens
-
 | ID   | Pergunta | Requisito elicitado | Tipo | Versão |
 |------|-----------|---------------------|------|---------|
 | AD01 | Como o usuário pode solicitar uma viagem para uma data ou horário futuro? | O usuário deve ser capaz de agendar uma viagem com até 30 dias de antecedência. | RF | 1.0 |
