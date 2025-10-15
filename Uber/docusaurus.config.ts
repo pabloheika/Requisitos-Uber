@@ -60,7 +60,6 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Requisitos Uber',
       logo: {
         alt: 'Uber Logo',
         src: 'img/logo.svg',
