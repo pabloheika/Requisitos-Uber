@@ -28,7 +28,7 @@ O objetivo desta Rich Picture é compreender e representar visualmente o fluxo o
 Figura 1: Rich Picture (Fonte: Ester Chaves)
 </p>
 
-![Legenda](assets/Legenda.rich.picture.png)
+![Legenda](assets/legenda.jpg)
 <p align="center">
 Figura 2: Legenda de componentes do Rich Picture (Fonte: Ester Chaves)
 </p>
