@@ -4,6 +4,10 @@ sidebar_label: Observação
 ---
 
 # Observação
+## Introdução
+ A técnica de elicitação por observação é um método utilizado  para identificar e compreender as necessidades dos usuários por meio da observação direta de suas atividades. Nessa abordagem, o analista acompanha o contato dos usuários com o sistema, observando como eles intera, quais funções utilizam e quais dificuldades enfrentam no cotidiano. 
+ 
+ O principal objetivo dessa técnica é coletar informações reais sobre o comportamento dos usuários e os processos organizacionais. Dessa maneira, a metologia a seguir foi adotada como mecânismo de pesquisa para a obtenção dos requisitos funcionais e não-funcionais descritos nas tabelas.
 
 | Tipo  | Descrição                                                                                              | ID   |
 |-------|--------------------------------------------------------------------------------------------------------|------|
