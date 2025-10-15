@@ -3,6 +3,8 @@ sidebar_position: 2
 sidebar_label: Observação
 ---
 
+# Observação
+
 | Tipo  | Descrição                                                                                              | ID   |
 |-------|--------------------------------------------------------------------------------------------------------|------|
 | RF01  | O aplicativo deve permitir que novos usuários se cadastrem na plataforma.                                | OB01 |

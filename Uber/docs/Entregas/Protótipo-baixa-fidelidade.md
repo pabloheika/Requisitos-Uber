@@ -2,6 +2,10 @@
 
 ![Prototipo-Baixa](assets/prototipobaixa.png)
 
+<p align="center">
+Figura 1: Protótipo de Baixa-Fidelidade (Fonte: Ester Chaves)
+</p>
+
 ## 1. Introdução 
 
 Este documento tem como objetivo apresentar um protótipo de baixa fidelidade do aplicativo Uber. Trata-se de um modelo simples que destaca as principais funções do sistema. A ideia aqui é mostrar o fluxo básico das telas e das ações, sem se preocupar, por enquanto, com detalhes de design. Essa abordagem mais leve torna mais fácil entender como o usuário vai navegar pelo app e ajuda a verificar se a lógica de navegação faz sentido antes de partir para um desenvolvimento mais completo e detalhado. 

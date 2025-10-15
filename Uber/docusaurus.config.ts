@@ -66,19 +66,7 @@ const config: Config = {
         src: 'img/logo.svg',
         srcDark: 'img/logo-dark.svg',
       },
-      items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Home',
-        },
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
+      items: [  
         {
           type: 'docSidebar',
           sidebarId: 'planejamentoSidebar',
@@ -87,14 +75,20 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'atas',
-          position: 'left',
-          label: 'Atas de reunião',
-        },{
-          type: 'docSidebar',
           sidebarId: 'elicitacao',
           position: 'left',
           label: 'Elicitação',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'entregasSidebar',
+          position: 'left',
+          label: 'Entregas Obrigatórias'
+        },{
+          type: 'docSidebar',
+          sidebarId: 'atas',
+          position: 'left',
+          label: 'Atas de reunião',
         },
         {
           href: 'https://pabloheika.github.io/Requisitos-Uber/',

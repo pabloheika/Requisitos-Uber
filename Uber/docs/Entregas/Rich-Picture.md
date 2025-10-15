@@ -22,6 +22,13 @@ O objetivo desta Rich Picture é compreender e representar visualmente o fluxo o
 
 * **Pagamento e avaliação:** O pagamento é feito digitalmente (cartão ou Pix), e o usuário avalia a experiência, fornecendo feedback para a plataforma. 
 
-![Rich Picture](imagens/Rich.picture.png)
 
-![Legenda](imagens/Legenda.rich.picture.png)
+![Rich-Picture](assets/richPicture.jpg)
+<p align="center">
+Figura 1: Rich Picture (Fonte: Ester Chaves)
+</p>
+
+![Legenda](assets/Legenda.rich.picture.png)
+<p align="center">
+Figura 2: Legenda de componentes do Rich Picture (Fonte: Ester Chaves)
+</p>
