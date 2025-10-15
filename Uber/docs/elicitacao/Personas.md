@@ -76,7 +76,7 @@ Para essa definição seguimos os seguintes critérios:
 | **Objetivos:** | Paulo trabalha como mecânico e utiliza através de seus funcionários o serviço de _uber bag_ para receber e enviar peças delicadas e precisas em horários flexíveis. |
 | **Habilidades:**| Uso de ferramentas e equipamentos, sensibilidade auditiva, capacidade de lidar com imprevistos,  habilidade de atendimento ao cliente.|
 | **Tarefas:&#xA0;**| Paulo começa o dia tomando café com seu filho, depois se direciona a oficina localizada no fundo da casa, depois passa o café e inicia o serviço do dia dando diagnósticos tecnicos e requisitando aos funcionários a encomenda das peças necessárias, assim seguindo o dia até finalizar os atendimentos e se direcionar para casa onde finaliza o dia. |
-| **Relacionamentos:** | Colegas de profissão, familiares, amigos, colegas do bar olee clientes. |
+| **Relacionamentos:** | Colegas de profissão, familiares, amigos, colegas do bar e clientes. |
 | **Requisitos:** |Delega aos seus funcionários para que utilizem o aplicativo para envios de encomendas e recebimentos de mercadorias| 
 | **Expectativas:** | Ele gostaria que o aplicativo seja agil em entregas e o rastreamento seja sempre atualizado para acompanhar as encomendas. |
 
