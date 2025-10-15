@@ -1,0 +1,41 @@
+{
+  "Certezas": [
+    " Deve permitir que novos usuários se cadastrem na plataforma.",
+    " A localização do veículo no mapa Deve ser atualizada em tempo real, com um atraso máximo de 5 segundos.",
+    " O sistema Deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).",
+    " Deve permitir que usuários existentes façam login em suas contas.",
+    " Deve oferecer a funcionalidade de envio de encomendas.",
+    " O sistema Deve ser escalável para lidar com picos de tráfego e alta demanda sem comprometer a disponibilidade.",
+    " O sistema Deve passar por manutenções e atualizações regulares para corrigir bugs, melhorar o desempenho e garantir a confiabilidade da plataforma.",
+    " Deve permitir que o usuário visualize seu histórico de pagamentos e atividades.",
+    " Deve permitir solicitar carros ou motos particulares para transporte de passageiros.",
+    " O sistema Deve garantir a integridade e a precisão dos dados dos usuários e das corridas, prevenindo corrupção ou perda de informações.",
+    " Deve criptografar todos os dados do usuário, tanto em trânsito quanto em repouso.",
+    " Deve exibir a localização de veículos próximos em tempo real.",
+    " A busca por veículos Deve ter uma precisão de localização de até 200 metros de raio.",
+    " Deve calcular e exibir a estimativa de tempo de partida e chegada ao destino.",
+    " Deve permitir a precificação de corridas com base na distância e tempo.",
+    " Deve possuir um sistema de mensagens para comunicação entre usuário e motorista.",
+    " Deve permitir que o usuário salve endereços como favoritos.",
+    " Deve oferecer a opção de gravar o áudio da corrida.",
+    " Deve exibir um mapa interativo para visualização de rotas e veículos.",
+    " Deve permitir o compartilhamento do trajeto da corrida em tempo real.",
+    " Deve permitir que usuárias mulheres selecionem motoristas mulheres.",
+    " Deve permitir o cadastro de cartões de crédito e débito como forma de pagamento.",
+    " Deve calcular e exibir o tempo estimado de uma viagem antes da confirmação.",
+    " Deve permitir ao usuário manter um saldo em reais (cash) e utilizá-lo para pagamentos."
+  ],
+  "Suposições": [
+    " O sistema de rastreamento de encomendas Deve retornar o status em menos de 5 segundos para 95% das consultas.",
+    " A precisão da localização do usuário e do motorista no mapa Deve ter uma margem de erro máxima de 10 metros.",
+    " A interface de mensagens Deve ter um tempo de carregamento inferior a 2 segundos em 95% dos casos.",
+    " Deve permitir o agendamento de viagens com antecedência.",
+    " Deve permitir a assinatura de um serviço de benefícios (ex: Uber One).",
+    " O sistema Deve seguir as diretrizes de acessibilidade WCAG 2.1, nível AA, para garantir o uso por pessoas com deficiência.",
+    " O cálculo de preços e prazos de viagem Deve ser concluído em menos de 2 segundos para 95% das consultas."
+  ],
+  "Dúvidas": [
+    " As informações de localização no mapa Devem ser atualizadas com uma latência máxima de 300ms.",
+    " O sistema Deve ser projetado para ser intuitivo e fácil de usar por pessoas idosas."
+  ]
+}

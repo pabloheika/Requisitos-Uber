@@ -1,6 +1,10 @@
 # Protótipo de Baixa Fidelidade – Uber 
 
-![Protótipo Uber](imagens/prot.baixa.png)
+![Prototipo-Baixa](assets/prototipobaixa.png)
+
+<p align="center">
+Figura 1: Protótipo de Baixa-Fidelidade (Fonte: Ester Chaves)
+</p>
 
 ## 1. Introdução 
 

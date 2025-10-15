@@ -25,7 +25,7 @@ const config: Config = {
   organizationName: 'pabloheika', // Usually your GitHub org/user name.
   projectName: 'Requisitos-Uber', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://pabloheika.github.io/Requisitos-Uber/',
+            'https://github.com/pabloheika/Requisitos-Uber',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,19 +66,7 @@ const config: Config = {
         src: 'img/logo.svg',
         srcDark: 'img/logo-dark.svg',
       },
-      items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Home',
-        },
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
+      items: [  
         {
           type: 'docSidebar',
           sidebarId: 'planejamentoSidebar',
@@ -87,14 +75,20 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'atas',
-          position: 'left',
-          label: 'Atas de reunião',
-        },{
-          type: 'docSidebar',
           sidebarId: 'elicitacao',
           position: 'left',
           label: 'Elicitação',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'entregasSidebar',
+          position: 'left',
+          label: 'Entregas Obrigatórias'
+        },{
+          type: 'docSidebar',
+          sidebarId: 'atas',
+          position: 'left',
+          label: 'Atas de reunião',
         },
         {
           href: 'https://pabloheika.github.io/Requisitos-Uber/',
