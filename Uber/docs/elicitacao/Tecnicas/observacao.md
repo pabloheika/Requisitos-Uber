@@ -4,10 +4,39 @@ sidebar_label: Observação
 ---
 
 # Observação
+
 ## Introdução
+
  A técnica de elicitação por observação é um método utilizado  para identificar e compreender as necessidades dos usuários por meio da observação direta de suas atividades. Nessa abordagem, o analista acompanha o contato dos usuários com o sistema, observando como eles intera, quais funções utilizam e quais dificuldades enfrentam no cotidiano. 
  
  O principal objetivo dessa técnica é coletar informações reais sobre o comportamento dos usuários e os processos organizacionais. Dessa maneira, a metologia a seguir foi adotada como mecânismo de pesquisa para a obtenção dos requisitos funcionais e não-funcionais descritos nas tabelas.
+
+Uma variação dessa técnica é a abordagem por aprendiz, na qual o analista de requisitos simula um usuário iniciante no sistema, observado pela equipe, com o objetivo de compreender sua execução prática. O grupo adotará essa abordagem, designando um integrante para representar o aprendiz do sistema e outro para observar suas interações com o aplicativo.
+
+## Metodologia
+
+A técnica de observação foi aplicada por dois membros do grupo, adotando a abordagem por aprendiz descrita anteriormente. Um integrante atuou como representante do aprendiz do sistema, enquanto o outro desempenhou o papel de observador.
+
+A reunião entre os integrantes ocorreu em 9 de outubro de 2025, às 17h, para executar a técnica de elicitação por observação. Antes do início, definiu-se que o aprendiz iniciaria com o login no aplicativo, em seguida exploraria as funcionalidades da tela inicial e, por fim, acessaria as opções do menu inferior. O observador manteve uma postura passiva, sem interferir, fornecer dicas ou sugestões ao aprendiz.
+
+### Participantes
+
+| Integrante | Tarefa |
+|:-:|:-:|
+| [Lys Coutinho](https://github.com/lyscoutinho) | Representante do aprendiz |
+| [Pablo S. Costa](https://github.com/pabloheika) | Observador |
+
+## Requisitos elicitados
+
+Neste tópico estão descritos os requisitos elicitados a partir da técnica de observação. Abaixo se encontra a legenda para as tabelas de requisitos:
+
+Legenda:
+
+- RFxx: Requisito funcional número xx;
+- RNFxx: Requisito não funcional número xx;
+- OBxx: Requisito elicitado pela técnica de observação número xx.
+
+### Requisitos Funcionais (RF)
 
 | Tipo  | Descrição                                                                                              | ID   |
 |-------|--------------------------------------------------------------------------------------------------------|------|
@@ -31,6 +60,8 @@ sidebar_label: Observação
 | RF18  | O aplicativo deve permitir o agendamento de viagens com antecedência.                                    | OB18 |
 | RF19  | O aplicativo deve exibir um mapa interativo para visualização de rotas e veículos.                        | OB19 |
 
+### Requisitos Não Funcionais (RNF)
+
 | Tipo   | Descrição                                                                                                                                               | ID   |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 | RNF01  | O aplicativo deve criptografar todos os dados do usuário, tanto em trânsito quanto em repouso.                                                          | OB20 |
@@ -48,3 +79,9 @@ sidebar_label: Observação
 | RNF13  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                                                                       | OB32 |
 | RNF14  | A localização do veículo no mapa deve ser atualizada em tempo real, com um atraso máximo de 5 segundos.                                                 | OB33 |
 | RNF15  | A precisão da localização do usuário e do motorista no mapa deve ter uma margem de erro máxima de 10 metros.                                            | OB34 |
+
+## Bibliografia 
+
+> <a id="a" href="#aa">1.</a> CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.
+
+> <a id="b" href="#bb">2.</a> Uber. Disponível em: [https://apps.apple.com/br/app/uber-pe%C3%A7a-viagem-de-carro/id368677368](https://apps.apple.com/br/app/uber-pe%C3%A7a-viagem-de-carro/id368677368). Acesso em: 9 out. 2025.
