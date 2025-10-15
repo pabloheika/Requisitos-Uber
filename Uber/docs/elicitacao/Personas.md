@@ -29,7 +29,9 @@ Para essa definição seguimos os seguintes critérios:
 * **Tarefas**: Quais são as atividades fundamentais ou críticas executadas pela persona? Qual é a regularidade, relevância e duração dessas atividades? Reserve os detalhes mais específicos de como as tarefas são cumpridas para os cenários.
 * **Relacionamentos**: Compreender as relações da persona é crucial, pois auxilia na identificação de outros stakeholders.
 * **Requisitos**: Do que a persona necessita? Inclua declarações que enriqueçam a compreensão dessas exigências.
-* **Expectativas**: Como a persona presume que o produto funcione? De que maneira ela organiza as informações em seu campo de atuação ou trabalho?
+* **Expectativas**: Como a persona presume que o produto funcione? De que maneira ela organiza as informações em seu campo de atuação ou trabalho.
+
+### Elenco
 
 | **Figura 1:** Fábio Cardoso | <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/0d4e9cafcf846343e347c8712eeab7f0ecfe81cf790fcd0b.jpeg" width="120" height="160" style="object-fit: cover; border-radius: 6px;">  fonte: this-person-does-not-exist.com|
 |------------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -77,3 +79,14 @@ Para essa definição seguimos os seguintes critérios:
 | **Relacionamentos:** | Colegas de profissão, familiares, amigos e clientes. |
 | **Requisitos:** |Delega aos seus funcionários para que utilizem o aplicativo para envios de encomendas e recebimentos de mercadorias| 
 | **Expectativas:** | Ele gostaria que o aplicativo seja agil em entregas e o rastreamento seja sempre atualizado para acompanhar as encomendas. |
+
+| **Figura 5:** Ivone da Silva| <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f6a4d66eb6a3089c37f2068b0c2047107666bace7e5dd68a.jpeg" width="120" height="160" style="object-fit: cover; border-radius: 6px;">  fonte: this-person-does-not-exist.com|
+|------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Identidade:&#xA0;** | Ivone da Silva - 64 anos - Feminino - Viúva - Ensino médio completo - Empreendedora| 
+| **Status:** | Persona secundária | 
+| **Objetivos:** | Ivone trabalha como revendedora de perfumes e pede para seus netos utilizarem o aplicativo -já que não consegue usar de maneira satisfatória os meios digitais- para selecionar corridas para a casa das clientes onde apresenta os novos produtos. |
+| **Habilidades:**| Demonstração de produtos, comunicação persuasiva, habilidade de manter contato com a clientela, lembrar preferências e datas especiais.|
+| **Tarefas:&#xA0;**| Ivone começa o dia tomando café na porta de casa onde se reune com seu ciclo de amigas para comentar os acontecimentos da visinhança, depois prepara o almoço previamente e sai para trabalhar com as vendas pedindo ao neto para marcar as corridas para as casas das clientes mais distantes, assim seguindo o dia até finalizar os atendimentos e se direcionar para casa onde finaliza o dia. |
+| **Relacionamentos:** | Comunidade religiosa, familiares, amigos e clientes. |
+| **Requisitos:** |Delega aos seus netos para que utilizem o aplicativo para pedir as corridas.| 
+| **Expectativas:** | Ela gostaria que o aplicativo fosse preciso em localização e detalhado em realação as caracteristicas dos veículos para ser mais fácil identificá-los. |
