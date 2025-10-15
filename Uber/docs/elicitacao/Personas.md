@@ -76,7 +76,7 @@ Para essa definição seguimos os seguintes critérios:
 | **Objetivos:** | Paulo trabalha como mecânico e utiliza através de seus funcionários o serviço de _uber bag_ para receber e enviar peças delicadas e precisas em horários flexíveis. |
 | **Habilidades:**| Uso de ferramentas e equipamentos, sensibilidade auditiva, capacidade de lidar com imprevistos,  habilidade de atendimento ao cliente.|
 | **Tarefas:&#xA0;**| Paulo começa o dia tomando café com seu filho, depois se direciona a oficina localizada no fundo da casa, depois passa o café e inicia o serviço do dia dando diagnósticos tecnicos e requisitando aos funcionários a encomenda das peças necessárias, assim seguindo o dia até finalizar os atendimentos e se direcionar para casa onde finaliza o dia. |
-| **Relacionamentos:** | Colegas de profissão, familiares, amigos e clientes. |
+| **Relacionamentos:** | Colegas de profissão, familiares, amigos, colegas do bar olee clientes. |
 | **Requisitos:** |Delega aos seus funcionários para que utilizem o aplicativo para envios de encomendas e recebimentos de mercadorias| 
 | **Expectativas:** | Ele gostaria que o aplicativo seja agil em entregas e o rastreamento seja sempre atualizado para acompanhar as encomendas. |
 
@@ -90,3 +90,14 @@ Para essa definição seguimos os seguintes critérios:
 | **Relacionamentos:** | Comunidade religiosa, familiares, amigos e clientes. |
 | **Requisitos:** |Delega aos seus netos para que utilizem o aplicativo para pedir as corridas.| 
 | **Expectativas:** | Ela gostaria que o aplicativo fosse preciso em localização e detalhado em realação as caracteristicas dos veículos para ser mais fácil identificá-los. |
+
+| **Figura 6:** Enzo Gabriel Castro| <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/3a72e1a025dd30be139a976a5db4b207cd63961fec42a24d.jpeg" width="120" height="160" style="object-fit: cover; border-radius: 6px;">  fonte: this-person-does-not-exist.com|
+|------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Identidade:&#xA0;** | Enzo Gabriel Castro - 15 anos - Masculino - Solteiro - Ensino fundamental completo - Estudante| 
+| **Status:** | Antipersona | 
+| **Objetivos:** | Enzo tem motorista particular e prefere ser conduzido para seus compromissos pelo motorista contratado.|
+| **Habilidades:**| Ferramentas digitais básicas, curiosidade e criatividade.|
+| **Tarefas:&#xA0;**| Enzo começa o dia sendo acordado por sua mãe depois desce de elevador até a cozinha para tomar café da manhã preparado pelo cozinheiro chefe, depois se arruma para ir para escolinha de futebol, ao fim do treino toma banho e se prepara para almoçar com seu pai, depois vai para escola assistir as aulas e termina o dia na missa das 18 horas. |
+| **Relacionamentos:** | Colegas do time de futebol, amigos, familiares, colegas da escola, comunidade religiosa.|
+| **Requisitos:** |Preferencialmente ele utiliza os serviços do motorista particular.| 
+| **Expectativas:** | Ela espera atendimento cordial do funcionário . |
