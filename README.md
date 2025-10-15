@@ -21,7 +21,7 @@ Este site foi construído usando [Docusaurus](https://docusaurus.io/), um modern
 
 Antes de rodar o projeto, certifique-se de ter instalado:
 
-- [Node.js](https://nodejs.org/) (recomendado versão 18 ou superior)
+- [Node.js](https://nodejs.org/) (recomendado versão 20 ou superior)
 - [Yarn](https://classic.yarnpkg.com/lang/en/) ou npm
 - Git (para deploy no GitHub Pages)
 
