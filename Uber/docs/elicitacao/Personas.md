@@ -67,3 +67,13 @@ Para essa definição seguimos os seguintes critérios:
 | **Expectativas:** | Ela gostaria que o serviço fosse  prático e seguro para mulheres que o utilizam. |
 
 
+| **Figura 4:** Paulo Cesar Rodrigues| <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/50785d92644a6b2a90136e312c1dd60a83b25797845b91ed.jpeg" width="120" height="160" style="object-fit: cover; border-radius: 6px;">  fonte: this-person-does-not-exist.com|
+|------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Identidade:&#xA0;** | Paulo Cesar Rodragues  - 53 anos - Masculino - Casado - Ensino médio incompleto - Mecânico| 
+| **Status:** | Persona secundária | 
+| **Objetivos:** | Paulo trabalha como mecânico e utiliza através de seus funcionários o serviço de _uber bag_ para receber e enviar peças delicadas e precisas em horários flexíveis. |
+| **Habilidades:**| Uso de ferramentas e equipamentos, sensibilidade auditiva, capacidade de lidar com imprevistos,  habilidade de atendimento ao cliente.|
+| **Tarefas:&#xA0;**| Paulo começa o dia tomando café com seu filho, depois se direciona a oficina localizada no fundo da casa, depois passa o café e inicia o serviço do dia dando diagnósticos tecnicos e requisitando aos funcionários a encomenda das peças necessárias, assim seguindo o dia até finalizar os atendimentos e se direcionar para casa onde finaliza o dia. |
+| **Relacionamentos:** | Colegas de profissão, familiares, amigos e clientes. |
+| **Requisitos:** |Delega aos seus funcionários para que utilizem o aplicativo para envios de encomendas e recebimentos de mercadorias| 
+| **Expectativas:** | Ele gostaria que o aplicativo seja agil em entregas e o rastreamento seja sempre atualizado para acompanhar as encomendas. |
