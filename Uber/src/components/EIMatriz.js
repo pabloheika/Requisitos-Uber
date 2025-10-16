@@ -13,7 +13,7 @@ export default function EIMatriz() {
 
   // Carrega dados salvos do localStorage
   useEffect(() => {
-    const saved = localStorage.getItem("csdData");
+    const saved = localStorage.getItem("eiData");
     if (saved) {
       try {
         setColumns(JSON.parse(saved));
