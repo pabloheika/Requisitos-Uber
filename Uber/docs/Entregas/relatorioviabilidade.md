@@ -126,4 +126,8 @@ Orçamento estimado definido: Entre US$ 40.000 a US$ 300.000
 
 > [How much does it cost to develop an app like Uber?](https://appinventiv.com/blog/how-much-does-it-cost-to-develop-an-app-like-careem-uber/)
 
-‌Feito
+## Histórico de revisão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão |
+| -- | -- | -- | -- | -- | -- |
+| 1.0 | 12/10/2025 | Criação da viabilidade do projeto.| Caio Sabino |   | 15/10/2025 |

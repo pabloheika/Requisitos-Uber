@@ -45,3 +45,8 @@ Esse tipo de protótipo ajuda a entender melhor como as telas vão funcionar e a
 
 O protótipo de baixa fidelidade do Uber mostra de forma clara e direta as principais etapas que o usuário passa dentro do aplicativo. Apesar de ser uma versão mais simples, ele a entender bem como o sistema funciona e como as pessoas interagem com as telas. Com esse protótipo, dá para melhorar o projeto, aprimorar o design e criar versões mais completas, oferecendo uma experiência ainda melhor para os futuros usuários. 
 
+## Histórico de revisão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão |
+| -- | -- | -- | -- | -- | -- |
+| 1.0 | 12/10/2025 | Criação do protótipo de baixa fidelidade e documentação.| Ester Chaves  |   | 15/10/2025 |

@@ -122,3 +122,10 @@ Após a definição das personas, foi utilizada a ferramenta **This Person Doesn
 | **Relacionamentos:** | Familiares, colegas, amigos e comunidade religiosa. |
 | **Requisitos:** | Utiliza motorista particular. |
 | **Expectativas:** | Atendimento cordial e personalizado. |
+
+
+## Histórico de revisão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão |
+| -- | -- | -- | -- | -- | -- |
+| 1.0 | 14/10/2025 | Criação das Personas e documentação.| Lys Coutinho  |   | 15/10/2025 |

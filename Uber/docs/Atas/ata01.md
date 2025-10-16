@@ -40,4 +40,4 @@ Por fim, o grupo definiu as prioridades das atividades e distribuiu-as ao longo 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da Revisão |
 | -- | -- | -- | -- | -- | -- |
-| 1.0 | 01/09/2025 | Criando Ata da Reunião | [Caio Sabino](https://github.com/caiomsabino) |   | 09/10/2025 |
+| 1.0 | 09/10/2025 | Criando Ata da Reunião | [Caio Sabino](https://github.com/caiomsabino) |   | 09/10/2025 |

@@ -85,3 +85,10 @@ Legenda:
 > <a id="a" href="#aa">1.</a> CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.
 
 > <a id="b" href="#bb">2.</a> Uber. Disponível em: [https://apps.apple.com/br/app/uber-pe%C3%A7a-viagem-de-carro/id368677368](https://apps.apple.com/br/app/uber-pe%C3%A7a-viagem-de-carro/id368677368). Acesso em: 9 out. 2025.
+
+
+## Histórico de revisão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão |
+| -- | -- | -- | -- | -- | -- |
+| 1.0 | 09/10/2025 | Criação de documento de elicitação por observação.| Lys Coutinho e Pablo Costa  |   | 15/10/2025 |

@@ -95,3 +95,9 @@ As seções a seguir detalham os requisitos elicitados para áreas críticas do 
 ### Referências
 
 > Vazquez, Carlos. Simões, Guilherme. Engenharia de Requisitos. Brasport, 2016. Disponível em: .Acesso em: 11 de outubro de 2025
+
+## Histórico de revisão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão |
+| -- | -- | -- | -- | -- | -- |
+| 1.0 | 09/10/2025 | Criação de documento de elicitação por análise documental.| [Caio Sabino](https://github.com/caiomsabino) |   | 09/10/2025 |
