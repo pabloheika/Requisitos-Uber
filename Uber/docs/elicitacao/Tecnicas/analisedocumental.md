@@ -72,7 +72,7 @@ As seções a seguir detalham os requisitos elicitados para áreas críticas do 
 | AD32 | O aplicativo deve permitir que o usuário envie alertas de segurança ou feedback sobre o motorista diretamente ao suporte. | Sim | 1.0 |
 
 
-### Requisitos Sim Funcionais
+### Requisitos Não Funcionais
 
 | ID   | Requisito elicitado | Implementado | Versão |
 |------|---------------------|---------------|---------|
