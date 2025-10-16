@@ -37,5 +37,10 @@
   "Dúvidas": [
     " As informações de localização no mapa Devem ser atualizadas com uma latência máxima de 300ms.",
     " O sistema Deve ser projetado para ser intuitivo e fácil de usar por pessoas idosas."
+  ],
+  "Teste": [
+    " As informações de localização no mapa Devem ser atualizadas com uma latência máxima de 300ms.",
+    " O sistema Deve ser projetado para ser intuitivo e fácil de usar por pessoas idosas."
   ]
+
 }

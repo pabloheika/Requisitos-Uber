@@ -37,4 +37,4 @@ Figura 2: Legenda de componentes do Rich Picture (Fonte: Ester Chaves)
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão |
 | -- | -- | -- | -- | -- | -- |
-| 1.0 | 09/10/2025 | Criação do Rich Picture e documentação.| Erick Okamura  |   | 15/10/2025 |
+| 1.0 | 09/10/2025 | Criação do Rich Picture e documentação.| Ester Chaves  |   | 15/10/2025 |
