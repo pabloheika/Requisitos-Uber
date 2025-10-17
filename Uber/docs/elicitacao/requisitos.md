@@ -86,6 +86,12 @@ As tabela apresentam os requisitos funcionais e os não funcionais, com colunas 
 | RNF24 | A localização do veículo no mapa deve ser atualizada em tempo real, com atraso máximo de 5 segundos. | [OB33][2] |
 | RNF25 | A precisão da localização de usuário e motorista deve ter erro máximo de 10 metros. | [OB34][2] |
 
+## Bibliografia
+
+> 1. Analise Documental 2025. **Requisitos Uber**. Disponível em :  [Analise Documental][1]. Acesso em: 16 de Outubro de 2025
+>
+> 2. Observação 2025. **Requisitos Uber**. Disponível em :  [Observação][2]. Acesso em: 16 de Outubro de 2025
+
 
 
 ## Histórico de revisão
