@@ -1,4 +1,83 @@
-#  Benchmarking – Uber x 99 x inDrive (Brasil, 2025)
+#  Benchmarking 
+## Definição
+**Benchmarking** é um processo sistemático de comparação de produtos, serviços, processos ou práticas de uma organização com os de outras — geralmente as líderes do mercado —, com o objetivo de identificar oportunidades de melhoria e adotar as melhores práticas.
+
+Em outras palavras, é uma técnica usada para analisar como outras empresas ou soluções alcançam alto desempenho e, a partir disso, adaptar estratégias que possam aprimorar a eficiência, a qualidade ou a experiência do seu próprio produto.
+
+## Nossos critérios
+
+### 1. Usuários ativos
+- **Definição:** Número de usuários que utilizam o aplicativo regularmente.
+-  Reflete a **popularidade e penetração do app**, ajudando a medir liderança e adoção regional.
+  
+---
+
+### 2.  Motoristas/parceiros
+- **Definição:** Quantidade de motoristas cadastrados e ativos na plataforma.
+- Uma rede ampla **reduz o tempo de espera**, melhora cobertura e aumenta a satisfação do usuário.
+
+---
+
+### 3.  Presença geográfica
+- **Definição:** Locais em que a empresa atua (capitais, cidades médias e pequenas).
+-  Mostra o **nível de expansão e capilaridade**, fundamental para crescimento e público-alvo.
+
+---
+
+### 4.  Modelo de tarifa / comissão
+- **Definição:** Forma como a empresa cobra dos usuários e remunera motoristas.
+-  Impacta a atratividade para usuários e motoristas, além da sustentabilidade do modelo de negócios.
+
+---
+
+### 5. Preço médio (corrida curta)
+- **Definição:** Valor médio pago por corridas de curta distância.
+- Preço é fator decisivo para escolha do aplicativo, especialmente em mercados sensíveis a custo.
+
+---
+
+### 6.  Base de usuários/passageiros
+- **Definição:** Total de pessoas que já utilizaram o app.
+- Indica penetração histórica e maturidade do mercado.
+
+---
+
+### 7.  Engajamento / lealdade
+- **Definição:** Frequência e constância de uso pelos usuários e motoristas.
+-  Reflete **confiança e sustentabilidade a longo prazo**.
+
+---
+
+### 8.  Forças
+- **Definição:** Principais diferenciais competitivos de cada empresa.
+-  Permite **mapear vantagens e oportunidades de replicar boas práticas**.
+
+---
+
+### 9.  Fraquezas
+- **Definição:** Limitações e vulnerabilidades percebidas.
+-  Essencial para **planejar melhorias e identificar lacunas de mercado**.
+
+---
+
+### 10.  Experiência do Usuário (UX)
+- **Definição:** Avaliação da usabilidade, fluidez e percepção geral do app.
+-  UX impacta diretamente **retenção, satisfação e recomendação** do serviço.
+
+---
+
+### 11.  Parcerias / Ecossistema
+- **Definição:** Alianças estratégicas e integrações com outros serviços.
+-  Parcerias fortalecem **valor agregado** e engajamento, criando ecossistemas integrados (mobilidade, delivery, finanças etc.).
+
+---
+
+### 12.  Posicionamento estratégico
+- **Definição:** Direção e visão de mercado adotada pela empresa.
+-  Mostra a estratégia competitiva (inovação, fidelização, preço, expansão etc.).
+
+---
+
 
 | **Critério** | **Uber** | **99 (DiDi)** | **inDrive** |
 |---------------|-----------|----------------|--------------|
