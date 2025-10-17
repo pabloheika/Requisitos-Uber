@@ -123,3 +123,7 @@ uber bag para receber e enviar peças delicadas e precisas em horários flexíve
 | **Relacionamentos:** | Familiares, colegas, amigos e comunidade religiosa. |
 | **Requisitos:** | Preferencialmente ele utiliza os serviços do motorista particular. |
 | **Expectativas:** | Ele espera atendimento cordial do funcionário . |
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão |
+| -- | -- | -- | -- | -- | -- |
+| 1.0 | 15/10/2025 | Criação das personas | Lys Coutinho |   |  |
