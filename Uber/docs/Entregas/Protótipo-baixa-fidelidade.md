@@ -18,22 +18,21 @@ O principal objetivo deste protótipo é mostrar como seria a experiência do us
 
 O protótipo de baixa fidelidade mostra as telas principais e as funções básicas do app, para que o fluxo de uso fique bem compreensível. Entre elas estão: 
 
-* Tela de login: acesso à conta ou criação de novo cadastro. 
+* **Tela de login:** acesso à conta ou criação de novo cadastro. 
 
-* Tela inicial: onde o usuário pode escolher o destino, as "opções" do aplicativo ou ferificar informações da conta. 
+* **Tela inicial:** onde o usuário pode escolher o destino, as "opções" do aplicativo ou ferificar informações da conta. 
 
-* Tela de opções: mostra todas as opções de uber, como o flash(entregas), o flash moto, opção de seniors(idosos), teens(menores de idade) e a de fazer reserva(agendar corrida).
+* **Tela de opções:** mostra todas as opções de uber, como o flash(entregas), o flash moto, opção de seniors(idosos), teens(menores de idade) e a de fazer reserva(agendar corrida).
 
-* Tela de visualização das informações do usuário:onde o usuário mode modificar seus dados(nome, forma de pagamento, configurações do aplicativo, nota do aplicativo).
+* **Tela de visualização das informações do usuário:** onde o usuário mode modificar seus dados(nome, forma de pagamento, configurações do aplicativo, nota do aplicativo).
 
-* Escolha do local de destino/partida: onde o usuário insere o destino no campo “Para onde?”.
+* **Escolha do local de destino/partida:** onde o usuário insere o destino no campo “Para onde?”.
 
+* **Escolha da viagem:** seleção do tipo de corrida (UberX, Comfort, Moto, etc.) e visualização do valor estimado. 
 
-* Escolha da viagem: seleção do tipo de corrida (UberX, Comfort, Moto, etc.) e visualização do valor estimado. 
+* **Confirmação da corrida:** apresenta informações do motorista, modelo do carro e tempo de chegada.  
 
-* Confirmação da corrida: apresenta informações do motorista, modelo do carro e tempo de chegada.  
-
-* Tela de avaliação: permite avaliar a corrida e deixar um comentário no final. 
+* **Tela de avaliação:** permite avaliar a corrida e deixar um comentário no final. 
 
 Essas telas foram desenhadas de forma simples, apenas com traços, caixas e rascunhos, focando na estrutura e não no visual. 
 
