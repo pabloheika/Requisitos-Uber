@@ -1,8 +1,9 @@
 # Protótipo de Média Fidelidade – Uber 
 
-![Protótipo de média fidelidade](imagens/prot.media.png)
+![Protótipo de média fidelidade](assets/prot-media.jpg)
 
 [Acesse o site do Figma](https://www.figma.com/design/1Hhvu2YEUmaGupRJJNte30/Prot%C3%B3tipo-de-Baixa-Fidelidade--Curso-UX-Design---Google---Community-?node-id=0-1&t=OsCcT8erEILtzJrP-1)
+
 
 ## 1. Introdução 
 
