@@ -95,3 +95,8 @@ Em outras palavras, é uma técnica usada para analisar como outras empresas ou 
 | **Posicionamento estratégico** | Liderança nacional e foco em serviços integrados (mobilidade + delivery) | Competição urbana e fidelização regional | Expansão agressiva por preço e descentralização |
 
 
+### PDF Estruturado
+
+[Abrir PDF do Benchmarking](../../static/Benchmarking.pdf)
+
+

@@ -89,3 +89,9 @@ Descrição breve de uma funcionalidade sob a ótica do usuário final, no forma
 - **Histórias de Usuário:** 30  
 
 ---
+
+## Histórico de revisão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão |
+| -- | -- | -- | -- | -- | -- |
+| 1.0 | 17/10/2025 | Criação do backlog do produto. | Caio Sabino |   | 17/10/2025 |
